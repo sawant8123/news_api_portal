@@ -5,8 +5,10 @@ import Login from "./components/Login";
 
 function App() {
   return (
+    
     <Router>
-      <Navbar />
+      
+      {location.pathname !== "/login" && <Navbar />}
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/" element={<News />} />
