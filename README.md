@@ -5,15 +5,15 @@ A full-stack news application with Google OAuth authentication and JWT tokens.
 ## Issues Fixed
 
 ### JWT Token Problems:
-1. ✅ Added proper JWT settings in Django
-2. ✅ Fixed token refresh endpoint configuration
-3. ✅ Added proper JWT lifetime and rotation settings
-4. ✅ Fixed API endpoint URL mismatches
+1.  Added proper JWT settings in Django
+2.  Fixed token refresh endpoint configuration
+3.  Added proper JWT lifetime and rotation settings
+4.  Fixed API endpoint URL mismatches
 
 ### API Data Fetching Issues:
-1. ✅ Added proper error handling and debugging
-2. ✅ Fixed News API endpoint configuration
-3. ✅ Added comprehensive error messages
+1.  Added proper error handling and debugging
+2.  Fixed News API endpoint configuration
+3.  Added comprehensive error messages
 
 ## Setup Instructions
 
@@ -101,9 +101,9 @@ A full-stack news application with Google OAuth authentication and JWT tokens.
 
 ## Features
 
-- 🔐 Google OAuth authentication
-- 🔑 JWT token-based authentication
-- 📰 News fetching from News API
-- 🔄 Automatic token refresh
-- 🎨 Modern React frontend
-- 🚀 Django REST API backend
+-  Google OAuth authentication
+-  JWT token-based authentication
+-  News fetching from News API
+-  Automatic token refresh
+-  Modern React frontend
+-  Django REST API backend
